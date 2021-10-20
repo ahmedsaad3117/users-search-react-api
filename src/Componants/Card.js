@@ -1,4 +1,4 @@
-import './Card.css'
+import './Styling.css'
 
 const Card = (props) => {
   return (
